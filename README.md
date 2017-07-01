@@ -47,7 +47,7 @@ CC2430-F128
 
 ![Debug Pins](https://github.com/applehat/contour-next-link-24-teardown/raw/master/debug-pins.jpg)
 
-## Dumping the Firmware
+## Attempting to Dump the Firmware
 
 The CC2430 is hooked up in-circuit to a nodeMCU devkit.  The CC2430's p2_1 is tied to the nodeMCU's D2, p2_2 to D1, reset_n to D5, and DVDD to 3v3.
 
