@@ -15,6 +15,10 @@ T5DBO0
 1624 HUL
 181961
 
+![Front](https://github.com/applehat/contour-next-link-24-teardown/raw/master/front.jpg)
+
+
+
 ## Back
 
 **Ti SoC ZigBee Radio**
@@ -22,3 +26,9 @@ T5DBO0
 CC2430-F128
 5CW01HG
 1549
+
+![Back](https://github.com/applehat/contour-next-link-24-teardown/raw/master/back.jpg)
+
+![Back Naked](https://github.com/applehat/contour-next-link-24-teardown/raw/master/back-without-lipo-or-shielding.jpg)
+
+![Debug Pins](https://github.com/applehat/contour-next-link-24-teardown/raw/master/debug-pins.jpg)
