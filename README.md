@@ -3,6 +3,8 @@ Tear Down of the Contour Next Link 2.4 Blood Glucose Meter
 
 ## Front
 
+Nothing super interesting up front. Mostly just the BG Meter bits.
+
 **Unknown Chip**
 
 F3796 018
@@ -21,7 +23,15 @@ T5DBO0
 
 ## Back
 
+This is where the fun stuff is.
+
+**Flash Memory**
+
+http://www.zlgmcu.com/mxic/pdf/NOR_Flash_c/MX25L1606-8006E_DS_EN.pdf
+
 **Ti SoC ZigBee Radio**
+
+http://www.ti.com/lit/ds/symlink/cc2430.pdf
 
 CC2430-F128
 5CW01HG
