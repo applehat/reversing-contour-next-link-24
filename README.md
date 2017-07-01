@@ -19,6 +19,8 @@ T5DBO0
 
 ![Front](https://github.com/applehat/contour-next-link-24-teardown/raw/master/front.jpg)
 
+![Board Top/Front](https://github.com/applehat/contour-next-link-24-teardown/raw/master/board_top.jpg)
+
 
 
 ## Back
@@ -40,5 +42,7 @@ CC2430-F128
 ![Back](https://github.com/applehat/contour-next-link-24-teardown/raw/master/back.jpg)
 
 ![Back Naked](https://github.com/applehat/contour-next-link-24-teardown/raw/master/back-without-lipo-or-shielding.jpg)
+
+![Board Bottom/Back](https://github.com/applehat/contour-next-link-24-teardown/raw/master/board_bottom.jpg)
 
 ![Debug Pins](https://github.com/applehat/contour-next-link-24-teardown/raw/master/debug-pins.jpg)
