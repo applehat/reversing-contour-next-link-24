@@ -116,4 +116,4 @@ print(string.format("read 0x%x", r_in))
 gpio.write(pReset, gpio.LOW)
 ```
 
-This read back from the CC2430 `0xb6`, meaning DEBUG_LOCKED is 1.  This bit prevents the debug interface from executing all commands except READ_STATUS, GET_CHIP_ID, and CHIP_ERASE.  Trying other debug commands returned `0x00`.
+This read back from the CC2430 `0xb6` (`0b10110110`), meaning DEBUG_LOCKED is 1.  This bit prevents the debug interface from executing all commands except READ_STATUS, GET_CHIP_ID, and CHIP_ERASE.  GET_CHIP_ID returned `0x8504`, indicating die revision E.  Trying other debug commands returned `0x00`.
